@@ -1,0 +1,12 @@
+torch
+pandas 
+scikit-learn
+matplotlib
+tqdm
+ipykernel
+biopython
+tensorboard
+gdown
+transformers
+faiss-cpu
+
